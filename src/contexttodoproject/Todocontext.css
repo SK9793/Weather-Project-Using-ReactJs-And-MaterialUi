@@ -1,0 +1,94 @@
+/* *{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.Todo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    padding: 30px;
+    color:#2B2A4C;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: large;
+    
+}
+.Todoitems{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* border: 2px solid pink; */
+    /* border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+    box-sizing: border-box;
+    /* background-color: #B6E2D3; */
+/* }
+.Todoitemlist{
+    background-color:#ED9ED6;
+    border: 2px solid #ED9ED6;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    margin: 5px;
+    
+    width: 100%;
+}
+.todoform{
+    background-color: #EF7C8E;
+    width: 50% ;
+    border: 2px solid violet;
+    border-radius: 10px;
+     */
+    
+    
+/* }
+
+/* form{
+    display: flex;
+    justify-content: space-between;
+} */ 
+
+/* input{
+    /* border: 2px solid #EF7C8E; */
+    /* margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    outline: none;
+    width:auto;
+    border:transparent;
+    
+} */
+/* input[type = "text"]{
+    width: 55%;
+} */ 
+/* button{
+    border: 2px solid  #EF7C8E;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    color: #B31312;
+    font-weight: inherit;
+    margin-left: 0px;
+} */
+/* #heading{
+    background-color: #D8A7B1;
+    color: #2B2A4C;
+    width: 17%;
+    margin: 0px;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    
+} */
+
+/* .Todoitemcontent{
+    display: flex;
+    justify-content: space-between;
+}   */
