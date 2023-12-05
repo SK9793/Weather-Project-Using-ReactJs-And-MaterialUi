@@ -173,7 +173,7 @@ import { citiesname } from "./weatherProject/Autocomplete";
 const App = () => {
   const Apikey = "f57529452525f50869155094a91ea50c";
 
-  // const [inputcityname, setinputcityname] = useState("");
+  
   const [inputValue, setInputValue] = React.useState('');
   const [data, setdata] = useState({});
 
